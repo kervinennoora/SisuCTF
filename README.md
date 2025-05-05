@@ -1,7 +1,7 @@
 # SisuCTF - Pentesting Web Application Project - Haaga-Helia PRO4TF023-3011
 ## Project Overview
 
-The purpose of this project is to develop a cloud-based CTF web application that provides a secure and scalable platform for users to practice cybersecurity skills through interactive challenges and virtual labs. 
+The purpose of this project is to develop a cloud-based CTF web application that provides a secure and scalable platform for users to practice cybersecurity skills through interactive challenges and virtual labs. Originally a part of bigger project, but due to loosing a couple team members we merged into a one. 
 
 ## Project Goals
 
